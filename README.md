@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi imockit 👋
+
+### imockit.osask@gmail.com
 
 <!--
 **imockit/imockit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
